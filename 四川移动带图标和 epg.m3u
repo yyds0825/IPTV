@@ -219,5 +219,5 @@ http://192.168.2.1:8888/rtp/239.11.0.186:5140?ChannelFECPort=5139
 http://192.168.2.1:8888/rtp/239.11.0.187:5140?ChannelFECPort=5139
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",UTV时尚音乐
 http://192.168.2.1:8888/rtp/239.11.0.188:5140?ChannelFECPort=5139
-#EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="地方",UTV第一剧场
+#EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="未分类",UTV第一剧场
 http://192.168.2.1:8888/rtp/239.11.0.189:5140?ChannelFECPort=5139
