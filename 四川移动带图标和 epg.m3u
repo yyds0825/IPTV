@@ -9,6 +9,8 @@ http://192.168.2.1:8888/rtp/239.11.0.101:5140?ChannelFECPort=5139
 http://192.168.2.1:8888/rtp/239.11.0.109:5140?ChannelFECPort=5139
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5
 http://192.168.2.1:8888/rtp/239.11.0.100:5140?ChannelFECPort=5139
+#EXTINF:-1 tvg-id="22" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV16-4K
+http://192.168.2.1:8888/rtp/239.11.0.67:5140?ChannelFECPort=5139
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+
 http://192.168.2.1:8888/rtp/239.11.0.241:5140?ChannelFECPort=5139
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV6
@@ -31,8 +33,6 @@ http://192.168.2.1:8888/rtp/239.11.0.24:5140?ChannelFECPort=5139
 http://192.168.2.1:8888/rtp/239.11.0.114:5140?ChannelFECPort=5139
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV15
 http://192.168.2.1:8888/rtp/239.11.0.26:5140?ChannelFECPort=5139
-#EXTINF:-1 tvg-id="22" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV16-4K
-http://192.168.2.1:8888/rtp/239.11.0.67:5140?ChannelFECPort=5139
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17
 http://192.168.2.1:8888/rtp/239.11.0.107:5140?ChannelFECPort=5139
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
