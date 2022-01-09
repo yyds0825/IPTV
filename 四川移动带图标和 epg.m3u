@@ -1,12 +1,4 @@
-note5因为防回滚不支持兔子模式刷机，只保留9008刷机或用本人提供的对应版本卡刷包
-
-部分版本机器可以免账号刷机
-
-
-技术论坛 www.cloudelectron.cn
-技术支持QQ：3410275634 
-
-特别感谢开发者 henry#EXTM3U
+#EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
 http://10.0.0.1:8888/rtp/239.11.0.65:5140?ChannelFECPort=5139
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2
